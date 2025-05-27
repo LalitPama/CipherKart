@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
   return (
     <ClerkProvider>
       <html lang="en">
-        <script src="//code.tidio.co/edldzv0dia7yzssycges6pcbfsoju92s.js" async></script>
+        <script src="//code.tidio.co/kqvv8unnjdzgnadvfxfnpbwoq8rdu6wl.js" async></script>
         <body className={`${outfit.className} antialiased text-gray-700`} >
           <Toaster />
           <AppContextProvider>
